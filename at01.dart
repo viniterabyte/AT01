@@ -1,3 +1,3 @@
 void main(){
-  print("Tempos difíceis geram pessoas fortes");
+  print("Você só vence amanhã se não desistir hoje");
 }
